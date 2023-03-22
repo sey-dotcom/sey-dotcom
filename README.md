@@ -1,7 +1,7 @@
 <h1>Hi there 👋 I'm Séraphine</h1>
 
 - 🌱 I just gratuated from Le Wagon in Brussels (batch #1110)
-- 🔭 I’m currently working on Ottter, a social media dedicated to cultural recommendations
+- 🦦 I’m currently working on Ottter, a social media dedicated to cultural recommendations
 - 💬 I'm currently working with Ruby on Rails and learning JavaScript
 - 🚴‍♀️ You can come to me for Ruby or bike questions
 - 📫 How to reach me: seraphine.marie@ieseg.fr
